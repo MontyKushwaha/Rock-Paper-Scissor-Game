@@ -1,8 +1,5 @@
 # Rock-Paper-Scissor-Game
 This is a mini project using Python.
-And In Python we used - random module, input method, list[], for loop, while loop and if-elif-else statements.
-
-In This Project We will play this game with computer.
-Firstly user enter choice and then computer get random choice from list and compare according to the game... and there will be total 5 rounds.
-And After 5 rounds The Game is Over....
-At the end compare whose count is greater, if user count is greater then user won the match ,if computer count is greater then computer won the match, else No one won the match.
+1-Developed a Python mini-project implementing a Rock Paper Scissor game.
+2-Utilized Python features such as random module, input method list, loops, and conditional statements.
+3-Implemented a user-computer interaction mechanism with 5 rounds of play.
